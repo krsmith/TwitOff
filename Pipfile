@@ -14,8 +14,6 @@ python-decouple = "*"
 python-dotenv = "*"
 scikit-learn = "*"
 heroku = "*"
-py-openaq = "*"
-decouple = "*"
 gunicorn = "*"
 
 [requires]
